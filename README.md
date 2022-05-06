@@ -1,6 +1,6 @@
 # Jogo Mario bros  :video_game:
 
-![image](https://user-images.githubusercontent.com/84552433/167176644-2585a931-6f3c-403e-a50c-9c78ca3171fc.png)
+![image](https://user-images.githubusercontent.com/84552433/167180398-b1465b9a-89ec-4a61-9343-79898732a5c5.png)
 
 <h2> Descrição: </h2>
 
