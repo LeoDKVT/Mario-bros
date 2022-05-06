@@ -4,7 +4,7 @@
 
 <h2> Descrição: </h2>
 
-Este jogo realizei mais para o meu desenvolvimento de aprendizagem com a tecnologia JavaScript. O Jogo em si tem apenas 1 lvl para uma rapida diversão. 
+Este jogo realizei mais para o meu desenvolvimento de aprendizagem com a tecnologia JavaScript. O Jogo em si tem apenas 1 lvl para uma rápida diversão. 
 
 Acesse a página do jogo clicando [aqui](https://leodkvt.github.io/Mario-bros/). Este site do jogo foi hospedado usando [GitHub Pages](https://pages.github.com/).
 
